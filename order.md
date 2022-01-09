@@ -1,5 +1,5 @@
 # JavaScript 函数式编程指南
-<a herf = 'https://k5t2borwjh.feishu.cn/wiki/wikcnf1BKy9SgkGZ9FI0sIgBZaf'>飞书文档</a>
+飞书文档 https://k5t2borwjh.feishu.cn/wiki/wikcnf1BKy9SgkGZ9FI0sIgBZaf
 # 书本结构
 1. 函数式思想
   1. 第一章：函数式概念（纯函数、副作用、声明式编程）第一章
